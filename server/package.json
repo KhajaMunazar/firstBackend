@@ -1,0 +1,20 @@
+{
+  "name": "todoproject",
+  "version": "1.0.0",
+  "description": "this is my firstBackend project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "backend",
+    "git",
+    "github"
+  ],
+  "author": "Khaja Munazar",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
